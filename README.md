@@ -11,6 +11,7 @@ A simple Python auto-typing application for Windows.
 **A lightweight Python auto-typing tool for Windows.**
 
 </div>
+
 ## Features
 
 - Simple graphical interface
