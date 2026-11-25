@@ -1,4 +1,4 @@
-# NEXORA Auto Typer
+# Auto Typer
 
 A simple Python auto-typing application for Windows.
 
@@ -6,7 +6,7 @@ A simple Python auto-typing application for Windows.
 
 <img src="images/preview.png" width="650">
 
-# NEXORA Auto Typer
+# Auto Typer
 
 **A lightweight Python auto-typing tool for Windows.**
 
@@ -95,4 +95,4 @@ No license has been added yet.
 
 ---
 
-**NEXORA Auto Typer**
+**Auto Typer**
