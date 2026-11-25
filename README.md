@@ -50,7 +50,7 @@ A simple Python auto-typing application for Windows.
 Clone this repository:
 
 ```bash
-git clone https://github.com/zrong-me/Auto_Typer-
+git clone https://github.com/zrong-me/Auto_Typer
 cd Auto_Typer
 ```
 
