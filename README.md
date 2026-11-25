@@ -2,6 +2,15 @@
 
 A simple Python auto-typing application for Windows.
 
+<div align="center">
+
+<img src="images/preview.png" width="650">
+
+# NEXORA Auto Typer
+
+**A lightweight Python auto-typing tool for Windows.**
+
+</div>
 ## Features
 
 - Simple graphical interface
