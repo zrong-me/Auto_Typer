@@ -74,7 +74,7 @@ Your EXE will be in the `dist` folder.
 ## Project Structure
 
 ```text
-NEXORA-AutoTyper/
+Auto_Typer/
 ├── main.py
 └── README.md
 ```
