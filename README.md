@@ -29,8 +29,8 @@ A simple Python auto-typing application for Windows.
 Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd NEXORA-AutoTyper
+git clone https://github.com/zrong-me/Auto_Typer-
+cd Auto_Typer
 ```
 
 Install dependencies:
