@@ -22,6 +22,17 @@ A simple Python auto-typing application for Windows.
 - Keyboard shortcuts
 - Continuous local preview
 
+## ⚡ Typing Speed Levels
+
+| Level | Delay per Character |
+|---|---:|
+| 🐢 Slow | 150 ms |
+| 🚶 Normal | 50 ms |
+| 🚀 Fast | 15 ms |
+| 🔥 Very Fast | 5 ms |
+
+**Note:** Lower delay means faster typing. Actual speed may vary depending on your computer and the application.
+
 ## Keyboard Shortcuts
 
 | Key | Action |
